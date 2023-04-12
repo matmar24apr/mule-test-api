@@ -98,7 +98,7 @@
     <aa.ap.orgid>a63e6d25-8aaf-4512-b36d-d91b90a55c4a</aa.ap.orgid>
     <aa.exchange.repo.id>anypoint-exchange-${aa.ap.orgid}</aa.exchange.repo.id>
     <!-- students: update with your own AP org ID -->
-    <student.deployment.ap.orgid>${aa.ap.orgid}</student.deployment.ap.orgid>
+    <student.deployment.ap.orgid>43d1e59c-ab4e-4751-84e3-29031fc91233</student.deployment.ap.orgid>
     <aa.exchange.repo.id>anypoint-exchange-${aa.ap.orgid}</aa.exchange.repo.id>
     <!-- library-style Mule plugins -->
     <apps-commons.version>1.0.0-SNAPSHOT</apps-commons.version>
